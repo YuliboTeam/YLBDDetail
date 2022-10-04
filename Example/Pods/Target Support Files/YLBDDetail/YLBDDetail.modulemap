@@ -1,0 +1,6 @@
+framework module YLBDDetail {
+  umbrella header "YLBDDetail-umbrella.h"
+
+  export *
+  module * { export * }
+}

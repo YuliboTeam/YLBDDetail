@@ -1,0 +1,16 @@
+PODS:
+  - YLBDDetail (0.1.0)
+
+DEPENDENCIES:
+  - YLBDDetail (from `../`)
+
+EXTERNAL SOURCES:
+  YLBDDetail:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YLBDDetail: f88349ecada0f3e47ce8dab5a75e87b6e7b0b10d
+
+PODFILE CHECKSUM: dbea783e315f7c33220029cce5cd87da2934b161
+
+COCOAPODS: 1.11.2
